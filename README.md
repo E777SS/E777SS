@@ -4,6 +4,10 @@
 
 Board
 
-Skills & Tools
+## Skills & Tools
+
+![Java](https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
+
 
 Follow Me
