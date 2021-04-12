@@ -2,12 +2,15 @@
 
 ## I'm a beginner Java Software Engeneer
 
-Board
+
 
 ## Skills & Tools
 
-![Java](https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=orange)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
 
 
-Follow Me
+## Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-#6495ED?style=social&logo=Telegram&logoColor=white)](https://t.me/E777SS)
+[![Вконтакте](https://img.shields.io/badge/-Java-#6495ED?style=social&logo=appveyor&logoColor=black)](https://vk.com/mynamemitnick)
