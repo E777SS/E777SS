@@ -6,7 +6,7 @@ Board
 
 ## Skills & Tools
 
-![Java](https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=orange)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
 
 
