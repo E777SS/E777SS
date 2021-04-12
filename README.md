@@ -12,5 +12,5 @@
 
 ## Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-#6495ED?style=social&logo=Telegram&logoColor=white)](https://t.me/E777SS)
-[![Вконтакте](https://img.shields.io/badge/-Java-#6495ED?style=social&logo=appveyor&logoColor=black)](https://vk.com/mynamemitnick)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/E777SS)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=Vkontakte&logoColor=blue)](https://vk.com/mynamemitnick)
