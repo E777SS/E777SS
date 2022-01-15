@@ -7,6 +7,7 @@
 ## Skills & Tools
 
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=Git&logoColor=white)
 
 
